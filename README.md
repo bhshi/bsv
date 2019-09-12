@@ -4,8 +4,8 @@
 - requests
 
 ### 文件
-- README.md    // help
-- balance.py   // main program
+- README.md
+- balance.py
 
 ### 版本
 v1.0
