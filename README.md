@@ -1,11 +1,11 @@
 ### 环境依赖
-python3
-BeautifulSoup
-requests
+- python3
+- BeautifulSoup
+- requests
 
 ### 文件
-README.md    // help
-balance.py   // main program
+- README.md    // help
+- balance.py   // main program
 
 ### 版本
 v1.0
